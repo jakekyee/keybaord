@@ -1,0 +1,36 @@
+### Footprint positions - created on 2026-03-14T17:12:31-0400 ###
+### Printed by KiCad version 9.0.7
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                PosX       PosY       Rot  Side
+D_A1      D         D_SOD-123           41.5000   -33.0000   90.0000  bottom
+D_A2      D         D_SOD-123           60.5000   -33.0000   90.0000  bottom
+D_A3      D         D_SOD-123           79.5000   -33.0000   90.0000  bottom
+D_A4      D         D_SOD-123           98.7500   -41.7500   90.0000  bottom
+D_A5      D         D_SOD-123          101.0000   -41.7500   90.0000  bottom
+D_A6      D         D_SOD-123          120.2500   -42.0000   90.0000  bottom
+D_A7      D         D_SOD-123          118.0000   -42.0000   90.0000  bottom
+D_B1      D         D_SOD-123           72.2500   -61.1500   90.0000  bottom
+D_B2      D         D_SOD-123           70.0000   -61.1500   90.0000  bottom
+D_B3      D         D_SOD-123           87.7500   -61.7500   90.0000  bottom
+D_B4      D         D_SOD-123          108.2500   -61.2500   90.0000  bottom
+D_B5      D         D_SOD-123          127.7500   -61.0000   90.0000  bottom
+D_B6      D         D_SOD-123          130.0000   -61.1500   90.0000  bottom
+D_C1      D         D_SOD-123           49.7500   -74.7500   90.0000  bottom
+D_C2      D         D_SOD-123           74.2500   -80.4000   90.0000  bottom
+D_C3      D         D_SOD-123           94.0593   -80.4000   90.0000  bottom
+D_C4      D         D_SOD-123          113.0000   -80.4000   90.0000  bottom
+D_C5      D         D_SOD-123          132.0000   -80.4000   90.0000  bottom
+D_C6      D         D_SOD-123          134.2500   -80.4000   90.0000  bottom
+D_D1      D         D_SOD-123           64.8890   -90.4874   90.0000  bottom
+D_D3      D         D_SOD-123           84.5343   -99.2500   90.0000  bottom
+D_D4      D         D_SOD-123          103.2500   -96.2500   90.0000  bottom
+D_D5      D         D_SOD-123          122.7500   -99.2500   90.0000  bottom
+D_D6      D         D_SOD-123          140.5000   -98.5000   90.0000  bottom
+D_D7      D         D_SOD-123          143.7500   -99.5000   90.0000  bottom
+D_E1      D         D_SOD-123           44.0531  -109.5374   90.0000  bottom
+D_E2      D         D_SOD-123           67.8656  -109.5374   90.0000  bottom
+D_E3      D         D_SOD-123           91.6780  -109.5374   90.0000  bottom
+D_E5      D         D_SOD-123           96.0000  -109.5000   90.0000  bottom
+D_E7      D         D_SOD-123           93.7500  -109.5374   90.0000  bottom
+## End

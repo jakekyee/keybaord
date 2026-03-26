@@ -1,0 +1,39 @@
+### Footprint positions - created on 2026-03-14T17:12:31-0400 ###
+### Printed by KiCad version 9.0.7
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val       Package                                                                           PosX       PosY       Rot  Side
+SW_A1     SW_Push   Kailh_socket_MX-ChocV1_onetoponebottom-flippedpads                             33.3375   -33.3375    0.0000  top
+SW_A2     SW_Push   Kailh_socket_MX-ChocV1_onetoponebottom-flippedpads                             52.3875   -33.3375    0.0000  top
+SW_A3     SW_Push   Kailh_socket_MX-ChocV1_onetoponebottom-flippedpads                             71.4374   -33.3375    0.0000  top
+SW_A4     SW_Push   Kailh_socket_MX-ChocV1_onetoponebottom-flippedpads                             90.4874   -33.3375    0.0000  top
+SW_A5     SW_Push   Kailh_socket_MX-ChocV1_onetoponebottom-flippedpads                            109.5374   -33.3375    0.0000  top
+SW_A6     SW_Push   Kailh_socket_MX-ChocV1_onetoponebottom-flippedpads                            128.5874   -33.3375    0.0000  top
+SW_A7     SW_Push   Kailh_socket_MX-ChocV1_onetoponebottom-flippedpads                            147.6374   -33.3375    0.0000  top
+SW_B1     SW_Push   Kailh_socket_MX-ChocV1_flippedpads                                             38.1000   -52.3875  180.0000  top
+SW_B2     SW_Push   Kailh_socket_MX-ChocV1_flippedpads                                             61.9124   -52.3875  180.0000  top
+SW_B3     SW_Push   Kailh_socket_MX-ChocV1_onetoponebottom-flippedpads                             80.9624   -52.3875    0.0000  top
+SW_B4     SW_Push   Kailh_socket_MX-ChocV1_onetoponebottom-flippedpads                            100.0124   -52.3875    0.0000  top
+SW_B5     SW_Push   Kailh_socket_MX-ChocV1_onetoponebottom-flippedpads                            119.0624   -52.3875    0.0000  top
+SW_B6     SW_Push   Kailh_socket_MX-ChocV1_onetoponebottom-flippedpads                            138.1124   -52.3875    0.0000  top
+SW_C1     SW_Push   Kailh_socket_MX-ChocV1_flippedpads                                             40.4812   -71.4374  180.0000  top
+SW_C2     SW_Push   Kailh_socket_MX-ChocV1_onetoponebottom-flippedpads                             66.6749   -71.4374    0.0000  top
+SW_C3     SW_Push   Kailh_socket_MX-ChocV1_onetoponebottom-flippedpads                             85.7249   -71.4374    0.0000  top
+SW_C4     SW_Push   Kailh_socket_MX-ChocV1_onetoponebottom-flippedpads                            104.7749   -71.4374    0.0000  top
+SW_C5     SW_Push   Kailh_socket_MX-ChocV1_onetoponebottom-flippedpads                            123.8249   -71.4374    0.0000  top
+SW_C6     SW_Push   Kailh_socket_MX-ChocV1_onetoponebottom-flippedpads                            142.8749   -71.4374    0.0000  top
+SW_CB1    SW_Push   Kailh_socket_MX-ChocV1_flippedpads                                             35.7187   -71.4374    0.0000  top
+SW_D1     SW_Push   Kailh_socket_MX-ChocV1-2.25U_onetoponebottom-flippedpads-reversedstabilizer    45.2437   -90.4874  180.0000  top
+SW_D3     SW_Push   Kailh_socket_MX-ChocV1_onetoponebottom-flippedpads                             76.1999   -90.4874    0.0000  top
+SW_D4     SW_Push   Kailh_socket_MX-ChocV1_onetoponebottom-flippedpads                             95.2499   -90.4874    0.0000  top
+SW_D5     SW_Push   Kailh_socket_MX-ChocV1_onetoponebottom-flippedpads                            114.2999   -90.4874    0.0000  top
+SW_D6     SW_Push   Kailh_socket_MX-ChocV1_onetoponebottom-flippedpads                            133.3499   -90.4874    0.0000  top
+SW_D7     SW_Push   Kailh_socket_MX-ChocV1_onetoponebottom-flippedpads                            152.3999   -90.4874    0.0000  top
+SW_E1     SW_Push   Kailh_socket_MX-ChocV1_onetoponebottom-flippedpads                             35.7187  -109.5374    0.0000  top
+SW_E2     SW_Push   Kailh_socket_MX-ChocV1_onetoponebottom-flippedpads                             59.5312  -109.5374    0.0000  top
+SW_E3     SW_Push   Kailh_socket_MX-ChocV1_onetoponebottom-flippedpads                             83.3437  -109.5374    0.0000  top
+SW_E5     SW_Push   Kailh_socket_MX-ChocV1-2.25U_onetoponebottom-flippedpads                      116.6812  -109.5374  180.0000  top
+SW_E7     SW_Push   Kailh_socket_MX-ChocV1_onetoponebottom-flippedpads                            150.0186  -109.5374  180.0000  top
+SW_EB5    SW_Push   Kailh_socket_MX-ChocV1_onetoponebottom-flippedpads                            107.1562  -109.5374    0.0000  top
+SW_EB7    SW_Push   Kailh_socket_MX-ChocV1-2.25U_onetoponebottom-flippedpads-reversedstabilizer   140.4936  -109.5374    0.0000  top
+## End
