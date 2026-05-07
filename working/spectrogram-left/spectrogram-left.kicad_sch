@@ -2730,7 +2730,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:ArduinoProMicro"
+		(property "Footprint" "Keebio-Parts:ArduinoProMicro-ZigZag"
 			(at 80.01 107.95 90)
 			(effects
 				(font
@@ -5641,7 +5641,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "jakestuff:ChocMX_sameside_flippedpads_2.25U_flippedstab"
+		(property "Footprint" "jakestuff:ChocMX_2.25U_reversedstab"
 			(at 104.14 78.74 0)
 			(effects
 				(font
