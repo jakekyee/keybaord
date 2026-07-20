@@ -11,9 +11,10 @@
 
 ## Quick Summary
 
-# Pictures
+# Firmware
+https://github.com/jakekyee/zmk-config-stuff
 
+# Techincal Notes  
+The wiring on the right side is kinda crazy because I didn't really know what I was doing in KiCad. 
+<img width="1421" height="802" alt="image" src="https://github.com/user-attachments/assets/3a9bae99-0c77-4f1f-9dba-01646434e665" />
 
-
-
-# More pictures
