@@ -7204,7 +7204,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "jakestuff:ChocMX_flippedpads_2.25U_reversedstab"
+		(property "Footprint" "jakestuff:ChocMX_flippedpads_2.25U"
 			(at 195.58 104.14 0)
 			(effects
 				(font
